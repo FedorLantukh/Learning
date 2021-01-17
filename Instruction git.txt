@@ -1,0 +1,4 @@
+Before commit use this command: git add *
+To save your changes write this command: git commit -m 'NAME YOUR CHANGES'
+To upload those changes to git write: git push
+To open command line right click on project folder and select git bash
